@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Control Total</string>
+    <string name="username_hint">Nombre de usuario</string>
+    <string name="register_button">Registrarse</string>
+    <string name="real_name_hint">Nombre real</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="email_hint">Correo electrónico</string>
+
+
+
+
+</resources>
+
+
